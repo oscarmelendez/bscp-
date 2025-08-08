@@ -2,7 +2,7 @@
 ---
 # 📚 BSCP - Apunts i Resolució de Labs
 
-Aquest repositori conté els **meus apunts personals** del curs **BSCP (Basic Security and Cryptography Practices)**, juntament amb la **resolució de tots els labs del portal [PortSwigger Web Security Academy](https://portswigger.net/web-security)**.
+Aquest repositori conté els **meus apunts personals** del curs **BSCP (BurpSuite Certified Practitioner)**, juntament amb la **resolució de tots els labs del portal [PortSwigger Web Security Academy](https://portswigger.net/web-security)**.
 
 ## 📘 Contingut
 
