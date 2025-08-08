@@ -11,14 +11,12 @@
             "id": "e9972d4aeb3d38d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "BSCP/HTTP Request Smuggling/TE.CL por Respuestas Diferenciales.md",
-                "mode": "source",
-                "source": false
+                "file": "BSCP/images/Pasted image 20250807212220.png"
               },
-              "icon": "lucide-file",
-              "title": "TE.CL por Respuestas Diferenciales"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250807212220"
             }
           }
         ]
@@ -168,25 +166,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9972d4aeb3d38d9",
+  "active": "0a7ff783cd21e2bd",
   "lastOpenFiles": [
+    "BSCP/HTTP Request Smuggling/TE.CL por Respuestas Diferenciales.md",
+    "BSCP.zip",
     "BSCP/HTTP Request Smuggling/TE.CL.md",
     "BSCP/HTTP Request Smuggling/Confirmacion de CL.TE por respuestas diferenciales.md",
-    "BSCP/HTTP Request Smuggling/TE.CL por Respuestas Diferenciales.md",
     "BSCP/HTTP Request Smuggling/ByPass seguridad Frontend CL.TE.md",
     "BSCP/HTTP Request Smuggling/ByPass seguridad frontend TE.CL.md",
     "BSCP/HTTP Request Smuggling/Descubrimiento Reescritura Frontend.md",
     "BSCP/HTTP Request Smuggling/CL.TE.md",
-    "Pasted image 20250807221139.png",
-    "Pasted image 20250807221033.png",
-    "Pasted image 20250807220933.png",
-    "Pasted image 20250807220756.png",
-    "Pasted image 20250807220606.png",
-    "Pasted image 20250807220521.png",
-    "Pasted image 20250807220456.png",
-    "Pasted image 20250807220308.png",
-    "Pasted image 20250807220302.png",
-    "Pasted image 20250807220206.png",
+    "BSCP/images/Pasted image 20250807221139.png",
+    "BSCP/images/Pasted image 20250807221033.png",
+    "BSCP/images/Pasted image 20250807220933.png",
+    "BSCP/images/Pasted image 20250807220756.png",
+    "BSCP/images/Pasted image 20250807220606.png",
+    "BSCP/images/Pasted image 20250807220521.png",
+    "BSCP/images/Pasted image 20250807220456.png",
+    "BSCP/images/Pasted image 20250807220308.png",
+    "BSCP/images/Pasted image 20250807220302.png",
+    "BSCP/images/Pasted image 20250807220206.png",
     "BSCP/HTTP Request Smuggling/Smuggling amb CL.0.md",
     "BSCP/HTTP Request Smuggling/Request Splitting HTTP 2 per CRLF injection.md",
     "BSCP/HTTP Request Smuggling/Smuggling HTTP 2 per CRLF Injection.md",
