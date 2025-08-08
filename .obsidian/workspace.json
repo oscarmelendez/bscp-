@@ -11,14 +11,12 @@
             "id": "e9972d4aeb3d38d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md.md",
-                "mode": "source",
-                "source": false
+                "file": "BSCP/images/Pasted image 20250808145817.png"
               },
-              "icon": "lucide-file",
-              "title": "README.md"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250808145817"
             }
           }
         ]
@@ -168,33 +166,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9972d4aeb3d38d9",
+  "active": "0a7ff783cd21e2bd",
   "lastOpenFiles": [
-    "BSCP/images/Pasted image 20250807212220.png",
-    "README.md.md",
-    "BSCP/HTTP Request Smuggling/TE.CL por Respuestas Diferenciales.md",
-    "BSCP.zip",
+    "BSCP/HTTP Request Smuggling/Request Splitting HTTP 2 per CRLF injection.md",
+    "BSCP/HTTP Request Smuggling/Bypass de control amb tunel HTTP 2.md",
+    "BSCP/HTTP Request Smuggling/IDENTIFICAR CL.TE O TE.CL.md",
+    "BSCP/images/Pasted image 20250808181736.png",
     "BSCP/HTTP Request Smuggling/TE.CL.md",
-    "BSCP/HTTP Request Smuggling/Confirmacion de CL.TE por respuestas diferenciales.md",
     "BSCP/HTTP Request Smuggling/ByPass seguridad Frontend CL.TE.md",
     "BSCP/HTTP Request Smuggling/ByPass seguridad frontend TE.CL.md",
-    "BSCP/HTTP Request Smuggling/Descubrimiento Reescritura Frontend.md",
+    "BSCP/HTTP Request Smuggling/Ocultant TE Header.md",
+    "BSCP/HTTP Request Smuggling/Captura de peticiones de otros usuarios.md",
     "BSCP/HTTP Request Smuggling/CL.TE.md",
-    "BSCP/images/Pasted image 20250807221139.png",
-    "BSCP/images/Pasted image 20250807221033.png",
-    "BSCP/images/Pasted image 20250807220933.png",
-    "BSCP/images/Pasted image 20250807220756.png",
-    "BSCP/images/Pasted image 20250807220606.png",
-    "BSCP/images/Pasted image 20250807220521.png",
-    "BSCP/images/Pasted image 20250807220456.png",
-    "BSCP/images/Pasted image 20250807220308.png",
-    "BSCP/images/Pasted image 20250807220302.png",
-    "BSCP/images/Pasted image 20250807220206.png",
-    "BSCP/HTTP Request Smuggling/Smuggling amb CL.0.md",
-    "BSCP/HTTP Request Smuggling/Request Splitting HTTP 2 per CRLF injection.md",
-    "BSCP/HTTP Request Smuggling/Smuggling HTTP 2 per CRLF Injection.md",
-    "BSCP/HTTP Request Smuggling/Response Queue Poisoning via H2.TE.md",
+    "BSCP/HTTP Request Smuggling/Confirmacion de CL.TE por respuestas diferenciales.md",
+    "BSCP/HTTP Request Smuggling/Descubrimiento Reescritura Frontend.md",
     "BSCP/HTTP Request Smuggling/H2.CL.md",
-    "BSCP/HTTP Request Smuggling/Entrega de Reflected XSS per Smuggling.md"
+    "BSCP/HTTP Request Smuggling/Entrega de Reflected XSS per Smuggling.md",
+    "BSCP/HTTP Request Smuggling/Response Queue Poisoning via H2.TE.md",
+    "BSCP/HTTP Request Smuggling/TE.CL por Respuestas Diferenciales.md",
+    "BSCP/HTTP Request Smuggling/Web Cache Poisoning.md",
+    "BSCP/HTTP Request Smuggling/Web Cache deception amb Smuggling.md",
+    "BSCP/images/Pasted image 20250808153839.png",
+    "BSCP/images/Pasted image 20250808152921.png",
+    "BSCP/images/Pasted image 20250808152601.png",
+    "BSCP/images/Pasted image 20250808152536.png",
+    "BSCP/images/Pasted image 20250808152529.png",
+    "BSCP/images/Pasted image 20250808152358.png",
+    "BSCP/images/Pasted image 20250808152341.png",
+    "BSCP/images/Pasted image 20250808152105.png",
+    "BSCP/images/Pasted image 20250808152014.png",
+    "README.md.md",
+    "BSCP.zip",
+    "BSCP/HTTP Request Smuggling/Smuggling amb CL.0.md",
+    "BSCP/HTTP Request Smuggling/Smuggling HTTP 2 per CRLF Injection.md"
   ]
 }
