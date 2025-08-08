@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "07da44433e509a2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e16431414e5a61e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9972d4aeb3d38d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSCP/HTTP Request Smuggling/TE.CL por Respuestas Diferenciales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TE.CL por Respuestas Diferenciales"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae9224360e544267",
+    "type": "split",
+    "children": [
+      {
+        "id": "304c02ae21634d2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a7ff783cd21e2bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "898287de36cfdc7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9a17b47b81941471",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18251608e985fa56",
+    "type": "split",
+    "children": [
+      {
+        "id": "faca1d0c632ddbb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05464bb5ab318e1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BSCP/HTTP Request Smuggling/TE.CL por Respuestas Diferenciales.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TE.CL por Respuestas Diferenciales"
+            }
+          },
+          {
+            "id": "62e5163bd2c1f058",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BSCP/HTTP Request Smuggling/TE.CL por Respuestas Diferenciales.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TE.CL por Respuestas Diferenciales"
+            }
+          },
+          {
+            "id": "10b9239b1b852a50",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eaac8db5cef1a8df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BSCP/HTTP Request Smuggling/TE.CL por Respuestas Diferenciales.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TE.CL por Respuestas Diferenciales"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e9972d4aeb3d38d9",
+  "lastOpenFiles": [
+    "BSCP/HTTP Request Smuggling/TE.CL.md",
+    "BSCP/HTTP Request Smuggling/Confirmacion de CL.TE por respuestas diferenciales.md",
+    "BSCP/HTTP Request Smuggling/TE.CL por Respuestas Diferenciales.md",
+    "BSCP/HTTP Request Smuggling/ByPass seguridad Frontend CL.TE.md",
+    "BSCP/HTTP Request Smuggling/ByPass seguridad frontend TE.CL.md",
+    "BSCP/HTTP Request Smuggling/Descubrimiento Reescritura Frontend.md",
+    "BSCP/HTTP Request Smuggling/CL.TE.md",
+    "Pasted image 20250807221139.png",
+    "Pasted image 20250807221033.png",
+    "Pasted image 20250807220933.png",
+    "Pasted image 20250807220756.png",
+    "Pasted image 20250807220606.png",
+    "Pasted image 20250807220521.png",
+    "Pasted image 20250807220456.png",
+    "Pasted image 20250807220308.png",
+    "Pasted image 20250807220302.png",
+    "Pasted image 20250807220206.png",
+    "BSCP/HTTP Request Smuggling/Smuggling amb CL.0.md",
+    "BSCP/HTTP Request Smuggling/Request Splitting HTTP 2 per CRLF injection.md",
+    "BSCP/HTTP Request Smuggling/Smuggling HTTP 2 per CRLF Injection.md",
+    "BSCP/HTTP Request Smuggling/Response Queue Poisoning via H2.TE.md",
+    "BSCP/HTTP Request Smuggling/H2.CL.md",
+    "BSCP/HTTP Request Smuggling/Entrega de Reflected XSS per Smuggling.md"
+  ]
+}
