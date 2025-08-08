@@ -11,12 +11,14 @@
             "id": "e9972d4aeb3d38d9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "BSCP/images/Pasted image 20250807212220.png"
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250807212220"
+              "icon": "lucide-file",
+              "title": "README.md"
             }
           }
         ]
@@ -166,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a7ff783cd21e2bd",
+  "active": "e9972d4aeb3d38d9",
   "lastOpenFiles": [
+    "BSCP/images/Pasted image 20250807212220.png",
+    "README.md.md",
     "BSCP/HTTP Request Smuggling/TE.CL por Respuestas Diferenciales.md",
     "BSCP.zip",
     "BSCP/HTTP Request Smuggling/TE.CL.md",
